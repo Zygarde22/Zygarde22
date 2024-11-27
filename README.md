@@ -1,1 +1,1 @@
-Hi, I'm Zygarde, I'm a newbie Python dev wanting to dip his toes into it.
+Hi, I'm Khris, I'm a newbie HTML and Javascript coder
